@@ -22,6 +22,7 @@ html {
 
 body {
     margin: 0;
+    background-color:#393939;
 }
 
 /**
@@ -40,6 +41,7 @@ main {
 h1 {
     font-size: 2em;
     margin: 0.67em 0;
+    color:white;
 }
 
 /* Grouping content
@@ -115,6 +117,7 @@ samp {
 
 small {
     font-size: 80%;
+    color:#908B8B;
 }
 
 /**
